@@ -15,3 +15,20 @@ D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcorea
 D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.csproj.CopyComplete
 D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.dll
 D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.pdb
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.deps.json
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.runtimeconfig.json
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.runtimeconfig.dev.json
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.dll
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.pdb
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.dll
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.pdb
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.csprojAssemblyReference.cache
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.RazorAssemblyInfo.cache
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.RazorAssemblyInfo.cs
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.AssemblyInfoInputs.cache
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.AssemblyInfo.cs
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.RazorTargetAssemblyInfo.cache
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.csproj.CopyComplete
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.dll
+C:\Users\Jesus Alvino\source\repos\Armadar.ExchangerService\Armadar.ExchangerService\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.pdb

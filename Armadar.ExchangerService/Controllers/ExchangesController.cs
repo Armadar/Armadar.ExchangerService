@@ -72,6 +72,37 @@ namespace Armadar.ExchangerService.Controllers
 
             return exchange;
         }
+        // GET: api/Exchanges/5
+        [HttpGet("{from}/{to}/{amount}")]
+        public ActionResult<Exchange> GetExchange(string from,string to,decimal amount)
+        {
+            if (!String.IsNullOrEmpty(from) && !String.IsNullOrEmpty(to))
+            {
+                if (amount > 0)
+                {
+                    ExchangeResponse r = new ExchangeResponse();
+                    var exchangeInfo = _context.Exchanges.SingleOrDefault(x => x.from == from && x.to == to && x.isActive);
+
+                    if (exchangeInfo != null)
+                    {
+                        r = FormatterResponse.getInfoResponse(from, to,amount, exchangeInfo);
+                    }
+                    else
+                    {
+                        return BadRequest(new { message = "There is not info with those money codes" });
+                    }
+                    return Ok(r);
+                }
+                else
+                {
+                    return BadRequest(new { message = "please enter a valid amount" });
+                }
+            }
+            else
+            {
+                return BadRequest(new { message = "the money codes are invalid" });
+            }
+        }
 
         // PUT: api/Exchanges/5
         [HttpPut("{id}")]

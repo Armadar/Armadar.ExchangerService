@@ -34,5 +34,22 @@ namespace Armadar.ExchangerService.Helpers
 
             return r;
         }
+        public static ExchangeResponse getInfoResponse(string from, string to, decimal amount, Exchange info)
+        {
+            ExchangeResponse r = new ExchangeResponse();
+
+            string operation = info.operation;
+            decimal rate = info.rate;
+            decimal value = operation == "D" ? amount / rate : amount * rate;
+
+            r.from = from;
+            r.to = to;
+            r.rate = info.rate;
+            r.amount = amount;
+            r.dateRate = info.dateRate;
+            r.value = Convert.ToDecimal(value.ToString("N4"));
+
+            return r;
+        }
     }
 }

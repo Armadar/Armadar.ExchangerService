@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Armadar.ExchangerService\\Armadar.ExchangerService.Entities\\Armadar.ExchangerService.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Jesus Alvino\\source\\repos\\Armadar.ExchangerService\\Armadar.ExchangerService.Entities\\Armadar.ExchangerService.Entities.csproj",
       "projectName": "Armadar.ExchangerService.Entities",
-      "projectPath": "D:\\Projects\\Armadar.ExchangerService\\Armadar.ExchangerService.Entities\\Armadar.ExchangerService.Entities.csproj",
+      "projectPath": "C:\\Users\\Jesus Alvino\\source\\repos\\Armadar.ExchangerService\\Armadar.ExchangerService.Entities\\Armadar.ExchangerService.Entities.csproj",
       "packagesPath": "C:\\Users\\Jesus Alvino\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Armadar.ExchangerService\\Armadar.ExchangerService.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Jesus Alvino\\source\\repos\\Armadar.ExchangerService\\Armadar.ExchangerService.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
