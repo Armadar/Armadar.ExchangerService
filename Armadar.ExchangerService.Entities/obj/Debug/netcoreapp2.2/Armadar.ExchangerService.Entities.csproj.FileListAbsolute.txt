@@ -1,0 +1,9 @@
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.deps.json
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.dll
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\bin\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.pdb
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.csprojAssemblyReference.cache
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.AssemblyInfoInputs.cache
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.AssemblyInfo.cs
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.dll
+D:\Projects\Armadar.ExchangerService\Armadar.ExchangerService.Entities\obj\Debug\netcoreapp2.2\Armadar.ExchangerService.Entities.pdb
