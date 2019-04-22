@@ -14,6 +14,7 @@ namespace Armadar.ExchangerService.Helpers
         public DateTime dateRate { get; set; }
         public decimal amount { get; set; }
         public decimal value { get; set; }
+        public string operation { get; set; }
     }
     public class FormatterResponse
     {
@@ -48,6 +49,7 @@ namespace Armadar.ExchangerService.Helpers
             r.amount = amount;
             r.dateRate = info.dateRate;
             r.value = Convert.ToDecimal(value.ToString("N4"));
+            r.operation = info.operation;
 
             return r;
         }
