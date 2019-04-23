@@ -74,7 +74,7 @@ namespace Armadar.ExchangerService.Controllers
         }
         // GET: api/Exchanges/5
         [HttpGet("{from}/{to}/{amount}")]
-        public ActionResult<Exchange> GetExchange(string from,string to,decimal amount)
+        public ActionResult<Exchange> GetExchange(string from, string to, decimal amount)
         {
             if (!String.IsNullOrEmpty(from) && !String.IsNullOrEmpty(to))
             {
@@ -85,7 +85,7 @@ namespace Armadar.ExchangerService.Controllers
 
                     if (exchangeInfo != null)
                     {
-                        r = FormatterResponse.getInfoResponse(from, to,amount, exchangeInfo);
+                        r = FormatterResponse.getInfoResponse(from, to, amount, exchangeInfo);
                     }
                     else
                     {
